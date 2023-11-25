@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
                 R.id.B4, R.id.B5, R.id.B6,
                 R.id.B1, R.id.B2, R.id.B3,
         };
+
     }
 
     public void jugada(View v) {
@@ -163,6 +164,7 @@ public class MainActivity extends AppCompatActivity {
 
         return 0; // Juego no ha terminado
     }
+
 
 
 }
